@@ -16,3 +16,5 @@ Currently, heres our staff!:
 *We* as a **team**, *LOVE Open-Source software*, and **want** more *things* to be ***open-source***! So, that's why every **project** of our ***studio*** has *source code availible*!
 ## More random things
 Also, this **README** has been *writen* by [**The Dreaming Cat**](https://github.com/TheRobloxStudioCat), ***hi!!!***
+## Organization
+*Click* [**here**](https://github.com/Dreaming-Studio) to go to the ***studio***!!!
